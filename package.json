@@ -1,0 +1,23 @@
+{
+  "name": "heyheyshop",
+  "version": "1.0.0",
+  "description": "A fictional shop with a terminal-like UI.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liberontissauri/heyheyshop.git"
+  },
+  "author": "Liberontissauri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liberontissauri/heyheyshop/issues"
+  },
+  "homepage": "https://github.com/Liberontissauri/heyheyshop#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
